@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "edan.myers@fake-rest-api.com",
+      "first_name": "Edan",
+      "last_name": "Myers",
+      "vacation_balance": 15
+    },
+    {
+      "id": 2,
+      "email": "leyla.mcculloch@fake-rest-api.com",
+      "first_name": "Leyla",
+      "last_name": "Mcculloch",
+      "vacation_balance": 40
+    },
+    {
+      "id": 3,
+      "email": "roma.edmonds@fake-rest-api.com",
+      "first_name": "Roma",
+      "last_name": "Edmonds",
+      "vacation_balance": 0
+    }
+  ]
+}
