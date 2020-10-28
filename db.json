@@ -5,21 +5,24 @@
       "email": "edan.myers@fake-rest-api.com",
       "first_name": "Edan",
       "last_name": "Myers",
-      "vacation_balance": 15
+      "vacation_balance": 15,
+      "account_id": "48223732"
     },
     {
       "id": 2,
       "email": "leyla.mcculloch@fake-rest-api.com",
       "first_name": "Leyla",
       "last_name": "Mcculloch",
-      "vacation_balance": 40
+      "vacation_balance": 40,
+      "account_id": "82642876"
     },
     {
       "id": 3,
       "email": "roma.edmonds@fake-rest-api.com",
       "first_name": "Roma",
       "last_name": "Edmonds",
-      "vacation_balance": 0
+      "vacation_balance": 0,
+      "account_id": "75584652"
     }
   ]
 }
