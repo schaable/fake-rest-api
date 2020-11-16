@@ -6,7 +6,7 @@
       "first_name": "Edan",
       "last_name": "Myers",
       "vacation_balance": 15,
-      "debt": '$15000',
+      "debt": "$15000",
       "account_id": "48223732"
     },
     {
@@ -15,7 +15,7 @@
       "first_name": "Leyla",
       "last_name": "Mcculloch",
       "vacation_balance": 40,
-      "debt": '$2000',
+      "debt": "$2000",
       "account_id": "82642876"
     },
     {
@@ -24,7 +24,7 @@
       "first_name": "Roma",
       "last_name": "Edmonds",
       "vacation_balance": 0,
-      "debt": '$0',
+      "debt": "$0",
       "account_id": "75584652"
     }
   ]
